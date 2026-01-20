@@ -1,3 +1,7 @@
+👤 Author
+Yahel Omesi
+📧 yahelomessi@gmail.com
+
 # 🧠 Bayesian Network Inference Engine
 AI Algorithms course project implementing probabilistic inference algorithms for Bayesian Networks.
 
@@ -26,15 +30,6 @@ For each query, the engine reports:
 - Explicit performance analysis via operation counting  
 - Input validation and structured query handling  
 
-## 🛠 Technologies & Concepts
-- Java (JDK 8)
-- Bayesian Networks
-- Probabilistic Inference
-- Variable Elimination
-- Heuristic Optimization
-- XML Parsing
-- Algorithm Analysis
-- Data Structures
 
 ## 📁 File Structure
 - `Ex1.java` – Program entry point  
@@ -61,7 +56,5 @@ Query probability (formatted to 5 decimal places)
 Number of addition operations
 Number of multiplication operations
 
-👤 Author
-Yahel Omesi
-📧 yahelomessi@gmail.com
+
 
